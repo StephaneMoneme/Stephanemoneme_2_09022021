@@ -27,8 +27,9 @@ body {
 
 }
 
-a, a:hover {
-  text-decoration: none; /*pour enlever la decoraton du texte */
+a {
+  text-decoration: none;/*pour enlever la decoraton du texte */
+  color: black; 
 }
 
 ul {
